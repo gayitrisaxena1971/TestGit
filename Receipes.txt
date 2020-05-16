@@ -9,6 +9,8 @@ Beans
 Pizza
 Cake
 Pastry
+Popcorn
+Icecream
 
 thanks very much :)
 
